@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-"""function that replaces an element of 
+"""function that replaces an element of
 a list at a specific position (like in C)"""
 
 
